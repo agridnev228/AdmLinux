@@ -58,9 +58,9 @@
      * Информация ОЗУ:  
      ```
      alexey@ubuntu:~$ free -h
-               total        used        free      shared  buff/cache   available
-  Mem:          3.8Gi       1.3Gi       1.2Gi        15Mi       1.3Gi       2.2Gi
-  Swap:         923Mi          0B       923Mi
+               	      total        used        free      shared  buff/cache   available
+  	Mem:          3.8Gi       1.3Gi       1.2Gi        15Mi       1.3Gi       2.2Gi
+  	Swap:         923Mi          0B       923Mi
      ```
      * Загрузка процессора:  
      ```
