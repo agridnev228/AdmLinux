@@ -6,7 +6,7 @@ then
     exit 1
 fi
 
-Hight=$1
+Height=$1
 Weight=$2
 
 if [ $3 -eq 0 ]
@@ -16,7 +16,7 @@ else
     sym=$4
 fi
 
-for (( i = 1; i <= $Hight; i++ )); do
+for (( i = 1; i <= $Height; i++ )); do
   for (( j = 1; j <= $Weight; j++ )); do
     if (( 1 == i || $Height == i || 1 == j || $Weight == j )); then
       echo -n $4
