@@ -20,34 +20,56 @@
   ```
   
   7. Что выведет на экран этот сценарий?
+
 #!/bin/bash
+
 VAR=`echo 'test'`
+
 VAR2=`echo '$VAR'`
+
 echo $VAR2
   ```
 $VAR
   ```
   8. Что выведет на экран этот сценарий?
+
 #!/bin/bash
+
 cd /etc
+
 VAR="$PWD"
+
 if [ -n "$VAR" ]; then
+
  echo "$VAR"
+ 
 else
+
  echo '$VAR'
+ 
 fi 
+
 ```
  /etc
   ```
   9. Что выведет на экран этот сценарий?
+
 #!/bin/bash
+
 A=1
+
 B=2
+
 if [ $A -eq $B  ]; then
+
  echo '$A'
+ 
 else
+
  echo "$B"
+ 
 fi 
+
   ```
  2
   ```
