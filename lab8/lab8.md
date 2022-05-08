@@ -27,9 +27,13 @@ mount
   
  Практика
  1. продемонстрировать работу at по запуску задачи записи в файл произвольной строки
- ![image](https://user-images.githubusercontent.com/69429895/167309929-41e4a233-76f3-4f70-b2d1-5ee85d0c0a67.png)
+ 
+![image](https://user-images.githubusercontent.com/69429895/167310834-d3f622b4-1493-4156-9305-a08e7b90c1c7.png)
 
 
+ 
  2.продемонстрировать работу cron по запуску задачи записи в файл произвольной строки
-
+ ![image](https://user-images.githubusercontent.com/69429895/167309929-41e4a233-76f3-4f70-b2d1-5ee85d0c0a67.png)
+ ![image](https://user-images.githubusercontent.com/69429895/167310658-b80251c6-e9d9-4d22-b439-e9c6a7d14fa9.png)
+ ![image](https://user-images.githubusercontent.com/69429895/167310677-6117ebd0-222d-4a33-90de-f22280532451.png)
 
